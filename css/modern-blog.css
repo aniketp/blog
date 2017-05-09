@@ -8,6 +8,7 @@
 	height: 0;
 	margin: 2%;
 	padding-bottom: 20%;
+	box-shadow: 3px 3px 5px 3px #202020;
 }
 
 .card__container {
@@ -52,7 +53,7 @@
 	height: auto;
 	margin: 400px auto 60px;
 	padding: 30px 40px 22px;
-	background: #fff;
+	background: #73EEC3;
 }
 
 .card__container--closed .card__content {
@@ -265,9 +266,8 @@ a:focus {
 }
 
 .header h1 {
-	font-family: "Times New Roman", Times, serif;
 	font-size: 5em;
-	font-weight: 400;
+	font-weight: 600;
 	line-height: 1.2;
 	margin: .5em 0 0;
 }
