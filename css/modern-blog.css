@@ -9,6 +9,18 @@
 	margin: 2%;
 	padding-bottom: 20%;
 	box-shadow: 3px 3px 5px 3px #202020;
+	-webkit-transition: all 200ms ease-out;
+	transition: all 200ms ease-out;
+}
+
+.card:hover{
+	box-shadow: 3px 3px 5px 7px #202020;
+	-webkit-transition: all 200ms ease-out;
+	transition: all 200ms ease-out;
+}
+
+.card:visited{
+	
 }
 
 .card__container {
@@ -286,8 +298,13 @@ a:focus {
 
 .links a {
 	display: inline-block;
-	margin: 0 .5em;
+	margin-right: 4em;
+	margin-left: 4em;
 }
+
+ .fa:hover{
+ 	color: #18EC8D;
+ }
 
 /* cards wrapper and close btn */
 
