@@ -275,7 +275,9 @@ a:focus {
 }
 
 .header h1 span {
-	font-size: .45em;
+	font-family: 'Creepster';
+	font-size: .30em;
+	font-stretch: extra-expanded;
 	display: block;
 	padding: .5em 0 1em;
 	color: #999;
