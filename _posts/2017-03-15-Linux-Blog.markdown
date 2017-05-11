@@ -6,6 +6,14 @@ avatar: "img/authors/wferr.png"
 image: "img/a.jpg"
 date:   2017-03-15 12:12:12
 ---
+<style>
+    body{
+        text-align: justify;
+        font-family: 'Open Sans',serif;
+    }
+</style>
+<link href="https://afeld.github.io/emoji-css/emoji.css" rel="stylesheet">
+<link rel="stylesheet" type="text/css" href="http://fonts.googleapis.com/css?family=Open+Sans">
 
 What the hell is Linux
 
@@ -32,7 +40,7 @@ What followed initial hiccup what an awesome experience I'd never forget. Today 
 
 And who doesn't love Terminal, No I'm not talking about the hacker feel that it gives you (surely that's a cool thing too), but everything is so much better once you get a feel of various commands. Wanna install an app? Cool, do it from the terminal. Wanna compile your code? You have the terminal. Wanna launch an IDE? Fire up terminal. 
 
->Its been two months since I installed Linux. And I would admit, initial learning curve for Linux is pretty steep, but you need patience and need to keep using it, cause benefits its are indispensable and its fruits are sweet :) 
+"Its been two months since I installed Linux. And I would admit, initial learning curve for Linux is pretty steep, but you need patience and need to keep using it, cause benefits its are indispensable and its fruits are sweet :) "
 
 ### Triple Booting!!!
 After getting well accustomed to the environment of Linux and after many rounds of installing/uninstalling Ubuntu, I thought of going a step forward, installing another distro of linux alongside Ubuntu and Windows 10. However , I was reluctant to do so as the procedure seemed a bit nasty. And I was afraid if I mess up anything that could potentially destroy my laptop. But I had the guidance of my seniors, with their help, I finally installed *Linux Mint 18.1 'Serena'* as an alternative to Ubuntu.
