@@ -3,7 +3,7 @@ title:  "Gymkhana Nomination Portal"
 subtitle: "Django Unchained"
 author: "Aniket Pandey"
 avatar: "img/authors/wferr.png"
-image: "img/a.jpg"
+image: "img/download.jpeg"
 date:   2017-07-02 12:12:12
 ---
 <style>
